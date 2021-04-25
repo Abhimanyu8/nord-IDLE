@@ -1,7 +1,7 @@
 # Idle-nord-theme
 _Why should idle miss out on the snow ?_
 
-![Screenshot](https://user-images.githubusercontent.com/54982599/115983709-7038b300-a5c0-11eb-8a53-cdfa5d5d98c2.png)
+![Screenshot 1](https://user-images.githubusercontent.com/54982599/115999823-eeba4280-a60a-11eb-9d37-494c6c70940e.jpg)
 
 ### [IDLE](https://docs.python.org/3/library/idle.html)
 
@@ -16,3 +16,6 @@ Download using the [GitHub .zip download](https://github.com/Abhimanyu8/Idle-nor
 2. Open IDLE and go to `Options > Configure > Highlighting`
 
 3. Select "Nord" theme under "a Custom Theme"
+
+![Screenshot 2](https://user-images.githubusercontent.com/54982599/115999825-f2e66000-a60a-11eb-9ef1-56934c27eeb0.jpg)
+
