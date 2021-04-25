@@ -1,5 +1,5 @@
-# IDLE-nord
-_Why should idle miss out on the snow ?_
+# nord-IDLE
+_An arctic, north-bluish clean and elegant tmux color theme._
 
 ![Screenshot 1](https://user-images.githubusercontent.com/54982599/115999823-eeba4280-a60a-11eb-9d37-494c6c70940e.jpg)
 
